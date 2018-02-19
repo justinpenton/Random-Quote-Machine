@@ -1,0 +1,58 @@
+body {
+  margin-top: 40px;
+  min-width: 700px;
+}
+
+div {
+  width: 60%;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 2px;
+}
+
+p:nth-child(1) {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 28px;
+  padding-top: 20px;
+}
+
+p:nth-child(2) {
+  text-align: right;
+  font-family: Helvetica;
+  font-size: 16px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.row {
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+#tweet div{
+  display: inline-block;
+}
+
+i {
+  color: white;
+  border: none;
+  padding: 13px;
+}
+
+a div {
+  width: 45px;
+}
+
+#button {
+  display: inline-block;
+  font-family: Helvetica;
+  font-size: 13.5px;
+  border: none;
+  float: right
+}
